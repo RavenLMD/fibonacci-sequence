@@ -18,13 +18,6 @@ int main(){
 		n_minus_one=old_n;
 		
 	}
-
-
-
-
-
-
-
-
+	printf("\n");
 	return 0;
 }
